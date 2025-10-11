@@ -1,6 +1,6 @@
 {
-  "name": "Malatya Çalışkan Oto Kurtarıcı",
-  "short_name": "Çalışkan Kurtarma",
+  "name": "Malatya Çalışkan Oto Kurtarma",
+  "short_name": "Çalışkan oto Kurtarma",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
