@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.malatyacaliskanotokurtarici.com.tr/sitemap.xml
+Sitemap: https://www.caliskanotokurtarma.com.tr/sitemap.xml
 
